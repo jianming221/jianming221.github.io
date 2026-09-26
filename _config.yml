@@ -4,23 +4,23 @@
 
 title: # the website title (if blank, full name will be used instead)
 first_name: Jianming
-middle_name: 
+middle_name:
 last_name: Wang
 contact_note: >
-  Feel free to contact me regarding research collaboration or academic discussion.  
+  Feel free to contact me regarding research collaboration or academic discussion.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-    Jianming Wang's academic website. PhD student in Artificial Intelligence at the University of Aberdeen, with research interests in neuro-symbolic AI, multi-agent systems, and autonomous driving.
+  Jianming Wang's academic website. PhD student in Artificial Intelligence at the University of Aberdeen, with research interests in neuro-symbolic AI, multi-agent systems, and autonomous driving.
 footer_text: >
   © 2026 Jianming Wang.
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-keywords:  # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://jianming221.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -166,7 +166,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname:  # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.

@@ -35,14 +35,13 @@ My research focuses on neuro-symbolic AI, multi-agent systems, and dual-system a
 - Multi-Agent Systems (MAS)
 - Dual-System Architectures
 
-<!--
----
+## <!--
 
 ## Publications
 
 **A Dual-System Neuro-Symbolic Framework with Accident Prediction for Autonomous Driving.**
 
-*EMAS Workshop*, 2026.
+_EMAS Workshop_, 2026.
 
 ---
 
@@ -82,7 +81,7 @@ Diploma in Business Management, 2015–2017
 
 - Compared one-stage and two-stage object detection approaches
 - Evaluated Faster R-CNN, Cascade R-CNN, and YOLOX
--->
+  -->
 
 ---
 
