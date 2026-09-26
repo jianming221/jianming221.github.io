@@ -19,10 +19,6 @@ latest_posts:
   limit: 3
 ---
 
-I am a PhD student in Artificial Intelligence at the University of Aberdeen.
-
-My research focuses on neuro-symbolic AI, multi-agent systems, and dual-system approaches to intelligent decision-making.
-
 ## Research Interests
 
 - Neuro-symbolic AI
@@ -79,6 +75,4 @@ Diploma in Business Management, 2015–2017
 
 ---
 
-## Contact
 
-I am open to research collaboration and academic discussion. Please feel free to get in touch by email or LinkedIn.
