@@ -4,11 +4,13 @@ title: about
 permalink: /
 subtitle: PhD Student in Artificial Intelligence at the University of Aberdeen
 
+<!--
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
+-->
 
 selected_papers: true
 
@@ -35,7 +37,7 @@ My research focuses on neuro-symbolic AI, multi-agent systems, and dual-system a
 - Multi-Agent Systems (MAS)
 - Dual-System Architectures
 
-## <!--
+<!--
 
 ## Publications
 
@@ -81,7 +83,7 @@ Diploma in Business Management, 2015–2017
 
 - Compared one-stage and two-stage object detection approaches
 - Evaluated Faster R-CNN, Cascade R-CNN, and YOLOX
-  -->
+-->
 
 ---
 
