@@ -4,14 +4,6 @@ title: about
 permalink: /
 subtitle: PhD Student in Artificial Intelligence at the University of Aberdeen
 
-<!--
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false
-  more_info: >
--->
-
 selected_papers: true
 
 social: true
