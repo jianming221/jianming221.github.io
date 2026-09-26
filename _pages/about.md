@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Artificial Intelligence at the University of Aberdeen
+subtitle: PhD Student at the University of Aberdeen
 
 selected_papers: true
 
