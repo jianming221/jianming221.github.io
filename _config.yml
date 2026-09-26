@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Jianming Wang # the website title (if blank, full name will be used instead)
 first_name: Jianming
 middle_name:
 last_name: Wang
@@ -11,7 +11,6 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Jianming Wang's website.
 footer_text: >
-  © 2026 Jianming Wang.
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 keywords: # add your own keywords or leave empty
