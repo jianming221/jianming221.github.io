@@ -306,6 +306,16 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+      
+  - scope:
+      path: "_posts/test"
+      type: posts
+    values:
+      hidden: true
+      featured: false
+      related_posts: false
+      sitemap: false
+      feed: false      
 
 sass:
   style: compressed
