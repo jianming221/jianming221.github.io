@@ -249,7 +249,6 @@ exclude:
   - gems/
   - migrations/
   - vendor
-  - _posts/test/
 keep_files:
   - CNAME
   - .nojekyll
@@ -307,16 +306,7 @@ defaults:
       path: "assets"
     values:
       sitemap: false
-      
-  - scope:
-      path: "_posts/test"
-      type: posts
-    values:
-      hidden: true
-      featured: false
-      related_posts: false
-      sitemap: false
-      feed: false      
+     
 
 sass:
   style: compressed
@@ -720,3 +710,7 @@ jsonresume:
   - languages
   - interests
   - references
+
+exclude:
+  - _posts/test/
+  - _projects/test/
